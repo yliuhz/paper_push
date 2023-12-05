@@ -10,5 +10,25 @@
     {
         "title": "attack detection using item vector shift in matrix factorisation\n  recommenders",
         "url": "http://arxiv.org/abs/2312.00512v1"
+    },
+    {
+        "title": "virtual quantum markov chains",
+        "url": "http://arxiv.org/abs/2312.02031v1"
+    },
+    {
+        "title": "language-only efficient training of zero-shot composed image retrieval",
+        "url": "http://arxiv.org/abs/2312.01998v1"
+    },
+    {
+        "title": "peace: prototype learning augmented transferable framework for\n  cross-domain recommendation",
+        "url": "http://arxiv.org/abs/2312.01916v1"
+    },
+    {
+        "title": "an ai-based solution for the cold start and data sparsity problems in\n  the recommendation systems",
+        "url": "http://arxiv.org/abs/2312.01840v1"
+    },
+    {
+        "title": "on gradient boosted decision trees and neural rankers: a case-study on\n  short-video recommendations at sharechat",
+        "url": "http://arxiv.org/abs/2312.01760v1"
     }
 ]
