@@ -110,5 +110,25 @@
     {
         "title": "an empirical study of next-basket recommendations",
         "url": "http://arxiv.org/abs/2312.02550v1"
+    },
+    {
+        "title": "rank-without-gpt: building gpt-independent listwise rerankers on\n  open-source large language models",
+        "url": "http://arxiv.org/abs/2312.02969v1"
+    },
+    {
+        "title": "let the llms talk: simulating human-to-human conversational qa via\n  zero-shot llm-to-llm interactions",
+        "url": "http://arxiv.org/abs/2312.02913v1"
+    },
+    {
+        "title": "concept drift adaptation in text stream mining settings: a comprehensive\n  review",
+        "url": "http://arxiv.org/abs/2312.02901v1"
+    },
+    {
+        "title": "rankzephyr: effective and robust zero-shot listwise reranking is a\n  breeze!",
+        "url": "http://arxiv.org/abs/2312.02724v1"
+    },
+    {
+        "title": "an empirical study of next-basket recommendations",
+        "url": "http://arxiv.org/abs/2312.02550v1"
     }
 ]
