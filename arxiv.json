@@ -430,5 +430,25 @@
     {
         "title": "car: consolidation, augmentation and regulation for recipe retrieval",
         "url": "http://arxiv.org/abs/2312.04763v1"
+    },
+    {
+        "title": "dense x retrieval: what retrieval granularity should we use?",
+        "url": "http://arxiv.org/abs/2312.06648v1"
+    },
+    {
+        "title": "large language models with retrieval-augmented generation for zero-shot\n  disease phenotyping",
+        "url": "http://arxiv.org/abs/2312.06457v1"
+    },
+    {
+        "title": "visiontraj: a noise-robust trajectory recovery framework based on\n  large-scale camera network",
+        "url": "http://arxiv.org/abs/2312.06428v1"
+    },
+    {
+        "title": "cross domain lifelong sequential modeling for online click-through rate\n  prediction",
+        "url": "http://arxiv.org/abs/2312.06424v1"
+    },
+    {
+        "title": "must: an effective and scalable framework for multimodal search of\n  target modality",
+        "url": "http://arxiv.org/abs/2312.06397v1"
     }
 ]
