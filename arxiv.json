@@ -750,5 +750,25 @@
     {
         "title": "leveraging user simulation to develop and evaluate conversational\n  information access agents",
         "url": "http://arxiv.org/abs/2312.08041v1"
+    },
+    {
+        "title": "distilling large language models for matching patients to clinical\n  trials",
+        "url": "http://arxiv.org/abs/2312.09958v1"
+    },
+    {
+        "title": "gear-up: generative ai and external knowledge-based retrieval upgrading\n  scholarly article searches for systematic reviews",
+        "url": "http://arxiv.org/abs/2312.09948v1"
+    },
+    {
+        "title": "temporally and distributionally robust optimization for cold-start\n  recommendation",
+        "url": "http://arxiv.org/abs/2312.09901v1"
+    },
+    {
+        "title": "cetn: contrast-enhanced through network for ctr prediction",
+        "url": "http://arxiv.org/abs/2312.09715v1"
+    },
+    {
+        "title": "context-aware sequential model for multi-behaviour recommendation",
+        "url": "http://arxiv.org/abs/2312.09684v1"
     }
 ]
