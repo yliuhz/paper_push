@@ -790,5 +790,25 @@
     {
         "title": "context-aware sequential model for multi-behaviour recommendation",
         "url": "http://arxiv.org/abs/2312.09684v1"
+    },
+    {
+        "title": "a novel diffusion recommendation algorithm based on multi-scale cnn and\n  residual lstm",
+        "url": "http://arxiv.org/abs/2312.10885v1"
+    },
+    {
+        "title": "on-device recommender systems: a tutorial on the new-generation\n  recommendation paradigm",
+        "url": "http://arxiv.org/abs/2312.10864v1"
+    },
+    {
+        "title": "a unified framework for multi-domain ctr prediction via large language\n  models",
+        "url": "http://arxiv.org/abs/2312.10743v1"
+    },
+    {
+        "title": "wikiformer: pre-training with structured information of wikipedia for\n  ad-hoc retrieval",
+        "url": "http://arxiv.org/abs/2312.10661v1"
+    },
+    {
+        "title": "hyperpie: hyperparameter information extraction from scientific\n  publications",
+        "url": "http://arxiv.org/abs/2312.10638v1"
     }
 ]
