@@ -890,5 +890,25 @@
     {
         "title": "lookahead: an inference acceleration framework for large language model\n  with lossless generation accuracy",
         "url": "http://arxiv.org/abs/2312.12728v1"
+    },
+    {
+        "title": "dir -- discrete information retrieval: conversational search over\n  unstructured (and structured) data with large language models",
+        "url": "http://arxiv.org/abs/2312.13264v1"
+    },
+    {
+        "title": "bsl: understanding and improving softmax loss for recommendation",
+        "url": "http://arxiv.org/abs/2312.12882v1"
+    },
+    {
+        "title": "parallel ranking of ads and creatives in real-time advertising systems",
+        "url": "http://arxiv.org/abs/2312.12750v1"
+    },
+    {
+        "title": "fine-tuning large language models for adaptive machine translation",
+        "url": "http://arxiv.org/abs/2312.12740v1"
+    },
+    {
+        "title": "lookahead: an inference acceleration framework for large language model\n  with lossless generation accuracy",
+        "url": "http://arxiv.org/abs/2312.12728v1"
     }
 ]
