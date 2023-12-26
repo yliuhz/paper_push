@@ -1070,5 +1070,25 @@
     {
         "title": "neural contextual bandits for personalized recommendation",
         "url": "http://arxiv.org/abs/2312.14037v1"
+    },
+    {
+        "title": "multi-view user representation learning for user matching without\n  personal information",
+        "url": "http://arxiv.org/abs/2312.14533v1"
+    },
+    {
+        "title": "on the effectiveness of unlearning in session-based recommendation",
+        "url": "http://arxiv.org/abs/2312.14447v1"
+    },
+    {
+        "title": "attribute-driven disentangled representation learning for multimodal\n  recommendation",
+        "url": "http://arxiv.org/abs/2312.14433v1"
+    },
+    {
+        "title": "context-aware decoding reduces hallucination in query-focused\n  summarization",
+        "url": "http://arxiv.org/abs/2312.14335v1"
+    },
+    {
+        "title": "neural contextual bandits for personalized recommendation",
+        "url": "http://arxiv.org/abs/2312.14037v1"
     }
 ]
