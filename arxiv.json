@@ -1110,5 +1110,25 @@
     {
         "title": "neural contextual bandits for personalized recommendation",
         "url": "http://arxiv.org/abs/2312.14037v1"
+    },
+    {
+        "title": "zero-shot cross-lingual reranking with large language models for\n  low-resource languages",
+        "url": "http://arxiv.org/abs/2312.16159v1"
+    },
+    {
+        "title": "scaling down, litting up: efficient zero-shot listwise reranking with\n  seq2seq encoder-decoder models",
+        "url": "http://arxiv.org/abs/2312.16098v1"
+    },
+    {
+        "title": "recranker: instruction tuning large language model as ranker for top-k\n  recommendation",
+        "url": "http://arxiv.org/abs/2312.16018v1"
+    },
+    {
+        "title": "a comprehensive survey of evaluation techniques for recommendation\n  systems",
+        "url": "http://arxiv.org/abs/2312.16015v1"
+    },
+    {
+        "title": "an incremental update framework for online recommenders with data-driven\n  prior",
+        "url": "http://arxiv.org/abs/2312.15903v1"
     }
 ]
