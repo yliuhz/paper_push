@@ -1190,5 +1190,25 @@
     {
         "title": "a multi-level distillation based dense passage retrieval model",
         "url": "http://arxiv.org/abs/2312.16821v1"
+    },
+    {
+        "title": "an adaptive framework of geographical group-specific network on o2o\n  recommendation",
+        "url": "http://arxiv.org/abs/2312.17072v1"
+    },
+    {
+        "title": "diffkg: knowledge graph diffusion model for recommendation",
+        "url": "http://arxiv.org/abs/2312.16890v1"
+    },
+    {
+        "title": "pareto-based multi-objective recommender system with forgetting curve",
+        "url": "http://arxiv.org/abs/2312.16868v1"
+    },
+    {
+        "title": "guitar: gradient pruning toward fast neural ranking",
+        "url": "http://arxiv.org/abs/2312.16828v1"
+    },
+    {
+        "title": "a multi-level distillation based dense passage retrieval model",
+        "url": "http://arxiv.org/abs/2312.16821v1"
     }
 ]
