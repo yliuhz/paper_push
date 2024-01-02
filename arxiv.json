@@ -1330,5 +1330,25 @@
     {
         "title": "break out of a pigeonhole: a unified framework for examining\n  miscalibration, bias, and stereotype in recommender systems",
         "url": "http://arxiv.org/abs/2312.17443v1"
+    },
+    {
+        "title": "k-perm: personalized response generation using dynamic knowledge\n  retrieval and persona-adaptive queries",
+        "url": "http://arxiv.org/abs/2312.17748v1"
+    },
+    {
+        "title": "investigating the effects of sparse attention on cross-encoders",
+        "url": "http://arxiv.org/abs/2312.17649v1"
+    },
+    {
+        "title": "uncertain research country rankings. should we continue producing\n  uncertain rankings?",
+        "url": "http://arxiv.org/abs/2312.17560v1"
+    },
+    {
+        "title": "towards mitigating dimensional collapse of representations in\n  collaborative filtering",
+        "url": "http://arxiv.org/abs/2312.17468v1"
+    },
+    {
+        "title": "break out of a pigeonhole: a unified framework for examining\n  miscalibration, bias, and stereotype in recommender systems",
+        "url": "http://arxiv.org/abs/2312.17443v1"
     }
 ]
