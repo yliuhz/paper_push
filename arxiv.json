@@ -1490,5 +1490,25 @@
     {
         "title": "navigating uncertainty: optimizing api dependency for hallucination\n  reduction in closed-book question answering",
         "url": "http://arxiv.org/abs/2401.01780v1"
+    },
+    {
+        "title": "graph neural networks for tabular data learning: a survey with taxonomy\n  and directions",
+        "url": "http://arxiv.org/abs/2401.02143v1"
+    },
+    {
+        "title": "spectral-based graph neutral networks for complementary item\n  recommendation",
+        "url": "http://arxiv.org/abs/2401.02130v1"
+    },
+    {
+        "title": "starling: an i/o-efficient disk-resident graph index framework for\n  high-dimensional vector similarity search on data segment",
+        "url": "http://arxiv.org/abs/2401.02116v1"
+    },
+    {
+        "title": "tailor: size recommendations for high-end fashion marketplaces",
+        "url": "http://arxiv.org/abs/2401.01978v1"
+    },
+    {
+        "title": "mining temporal attack patterns from cyberthreat intelligence reports",
+        "url": "http://arxiv.org/abs/2401.01883v1"
     }
 ]
