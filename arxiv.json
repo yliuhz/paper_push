@@ -1730,5 +1730,25 @@
     {
         "title": "spectral-based graph neutral networks for complementary item\n  recommendation",
         "url": "http://arxiv.org/abs/2401.02130v1"
+    },
+    {
+        "title": "variance reduction in ratio metrics for efficient online experiments",
+        "url": "http://arxiv.org/abs/2401.04062v1"
+    },
+    {
+        "title": "unveiling bias in fairness evaluations of large language models: a\n  critical literature review of music and movie recommendation systems",
+        "url": "http://arxiv.org/abs/2401.04057v1"
+    },
+    {
+        "title": "sparse meets dense: a hybrid approach to enhance scientific document\n  retrieval",
+        "url": "http://arxiv.org/abs/2401.04055v1"
+    },
+    {
+        "title": "learning-to-rank with nested feedback",
+        "url": "http://arxiv.org/abs/2401.04053v1"
+    },
+    {
+        "title": "the impact of differential privacy on recommendation accuracy and\n  popularity bias",
+        "url": "http://arxiv.org/abs/2401.03883v1"
     }
 ]
