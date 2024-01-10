@@ -1810,5 +1810,25 @@
     {
         "title": "fine-grained embedding dimension optimization during training for\n  recommender systems",
         "url": "http://arxiv.org/abs/2401.04408v1"
+    },
+    {
+        "title": "analyzing coherency in facet-based clarification prompt generation for\n  search",
+        "url": "http://arxiv.org/abs/2401.04524v1"
+    },
+    {
+        "title": "rewriting the code: a simple method for large language model augmented\n  code search",
+        "url": "http://arxiv.org/abs/2401.04514v1"
+    },
+    {
+        "title": "combining embedding-based and semantic-based models for post-hoc\n  explanations in recommender systems",
+        "url": "http://arxiv.org/abs/2401.04474v1"
+    },
+    {
+        "title": "privacy-preserving sequential recommendation with collaborative\n  confusion",
+        "url": "http://arxiv.org/abs/2401.04423v1"
+    },
+    {
+        "title": "fine-grained embedding dimension optimization during training for\n  recommender systems",
+        "url": "http://arxiv.org/abs/2401.04408v1"
     }
 ]
