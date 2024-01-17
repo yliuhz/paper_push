@@ -2230,5 +2230,25 @@
     {
         "title": "generative multi-modal knowledge retrieval with large language models",
         "url": "http://arxiv.org/abs/2401.08206v1"
+    },
+    {
+        "title": "siamese content-based search engine for a more transparent skin and\n  breast cancer diagnosis through histological imaging",
+        "url": "http://arxiv.org/abs/2401.08272v1"
+    },
+    {
+        "title": "ranking heterogeneous search result pages using the interactive\n  probability ranking principle",
+        "url": "http://arxiv.org/abs/2401.08267v1"
+    },
+    {
+        "title": "mcrpl: a pretrain, prompt &amp; fine-tune paradigm for non-overlapping\n  many-to-one cross-domain recommendation",
+        "url": "http://arxiv.org/abs/2401.08228v1"
+    },
+    {
+        "title": "llm-guided multi-view hypergraph learning for human-centric explainable\n  recommendation",
+        "url": "http://arxiv.org/abs/2401.08217v1"
+    },
+    {
+        "title": "generative multi-modal knowledge retrieval with large language models",
+        "url": "http://arxiv.org/abs/2401.08206v1"
     }
 ]
