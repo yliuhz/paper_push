@@ -2590,5 +2590,25 @@
     {
         "title": "what are we optimizing for? a human-centric evaluation of deep\n  learning-based recommender systems",
         "url": "http://arxiv.org/abs/2401.11632v1"
+    },
+    {
+        "title": "revisiting document-level relation extraction with context-guided link\n  prediction",
+        "url": "http://arxiv.org/abs/2401.11800v1"
+    },
+    {
+        "title": "knowledge navigation: inferring the interlocking map of knowledge from\n  research trajectories",
+        "url": "http://arxiv.org/abs/2401.11742v1"
+    },
+    {
+        "title": "domain-aware cross-attention for cross-domain recommendation",
+        "url": "http://arxiv.org/abs/2401.11705v1"
+    },
+    {
+        "title": "next visit diagnosis prediction via medical code-centric multimodal\n  contrastive ehr modelling with hierarchical regularisation",
+        "url": "http://arxiv.org/abs/2401.11648v1"
+    },
+    {
+        "title": "what are we optimizing for? a human-centric evaluation of deep\n  learning-based recommender systems",
+        "url": "http://arxiv.org/abs/2401.11632v1"
     }
 ]
