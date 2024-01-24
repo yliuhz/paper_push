@@ -2630,5 +2630,25 @@
     {
         "title": "what are we optimizing for? a human-centric evaluation of deep\n  learning-based recommender systems",
         "url": "http://arxiv.org/abs/2401.11632v1"
+    },
+    {
+        "title": "gradient flow of energy: a general and efficient approach for entity\n  alignment decoding",
+        "url": "http://arxiv.org/abs/2401.12798v1"
+    },
+    {
+        "title": "cdrnp: cross-domain recommendation to cold-start users via neural\n  process",
+        "url": "http://arxiv.org/abs/2401.12732v1"
+    },
+    {
+        "title": "moregin: multi-objective recommendation at the global and individual\n  levels",
+        "url": "http://arxiv.org/abs/2401.12593v1"
+    },
+    {
+        "title": "polycf: towards the optimal spectral graph filters for collaborative\n  filtering",
+        "url": "http://arxiv.org/abs/2401.12590v1"
+    },
+    {
+        "title": "inforank: unbiased learning-to-rank via conditional mutual information\n  minimization",
+        "url": "http://arxiv.org/abs/2401.12553v1"
     }
 ]
