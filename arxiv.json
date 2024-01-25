@@ -2690,5 +2690,25 @@
     {
         "title": "inforank: unbiased learning-to-rank via conditional mutual information\n  minimization",
         "url": "http://arxiv.org/abs/2401.12553v1"
+    },
+    {
+        "title": "building contextual knowledge graphs for personalized learning\n  recommendations using text mining and semantic graph completion",
+        "url": "http://arxiv.org/abs/2401.13609v1"
+    },
+    {
+        "title": "a cost-sensitive meta-learning strategy for fair provider exposure in\n  recommendation",
+        "url": "http://arxiv.org/abs/2401.13566v1"
+    },
+    {
+        "title": "fine-grained contract ner using instruction based model",
+        "url": "http://arxiv.org/abs/2401.13545v1"
+    },
+    {
+        "title": "tprf: a transformer-based pseudo-relevance feedback model for efficient\n  and effective retrieval",
+        "url": "http://arxiv.org/abs/2401.13509v1"
+    },
+    {
+        "title": "scimmir: benchmarking scientific multi-modal information retrieval",
+        "url": "http://arxiv.org/abs/2401.13478v1"
     }
 ]
