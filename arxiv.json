@@ -2830,5 +2830,25 @@
     {
         "title": "robustness in fairness against edge-level perturbations in gnn-based\n  recommendation",
         "url": "http://arxiv.org/abs/2401.13823v1"
+    },
+    {
+        "title": "accelerating retrieval-augmented language model serving with speculation",
+        "url": "http://arxiv.org/abs/2401.14021v1"
+    },
+    {
+        "title": "towards 3d molecule-text interpretation in language models",
+        "url": "http://arxiv.org/abs/2401.13923v1"
+    },
+    {
+        "title": "integrating large language models into recommendation via mutual\n  augmentation and adaptive aggregation",
+        "url": "http://arxiv.org/abs/2401.13870v1"
+    },
+    {
+        "title": "algorithmically curated lies: how search engines handle misinformation\n  about us biolabs in ukraine",
+        "url": "http://arxiv.org/abs/2401.13832v1"
+    },
+    {
+        "title": "robustness in fairness against edge-level perturbations in gnn-based\n  recommendation",
+        "url": "http://arxiv.org/abs/2401.13823v1"
     }
 ]
