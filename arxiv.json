@@ -2930,5 +2930,25 @@
     {
         "title": "robustness in fairness against edge-level perturbations in gnn-based\n  recommendation",
         "url": "http://arxiv.org/abs/2401.13823v1"
+    },
+    {
+        "title": "embedding-based search in jetbrains ides",
+        "url": "http://arxiv.org/abs/2401.14975v1"
+    },
+    {
+        "title": "analysing the influence of macroeconomic factors on credit risk in the\n  uk banking sector",
+        "url": "http://arxiv.org/abs/2401.14943v1"
+    },
+    {
+        "title": "macro graph neural networks for online billion-scale recommender systems",
+        "url": "http://arxiv.org/abs/2401.14939v1"
+    },
+    {
+        "title": "the power of noise: redefining retrieval for rag systems",
+        "url": "http://arxiv.org/abs/2401.14887v1"
+    },
+    {
+        "title": "expressivity-aware music performance retrieval using mid-level\n  perceptual features and emotion word embeddings",
+        "url": "http://arxiv.org/abs/2401.14826v1"
     }
 ]
