@@ -3370,5 +3370,25 @@
     {
         "title": "a multi-agent conversational recommender system",
         "url": "http://arxiv.org/abs/2402.01135v1"
+    },
+    {
+        "title": "improving sequential recommendations with llms",
+        "url": "http://arxiv.org/abs/2402.01339v1"
+    },
+    {
+        "title": "minimizing regret in billboard advertisement under zonal influence\n  constraint",
+        "url": "http://arxiv.org/abs/2402.01294v1"
+    },
+    {
+        "title": "himirec: modeling hierarchical multi-interest for recommendation",
+        "url": "http://arxiv.org/abs/2402.01253v1"
+    },
+    {
+        "title": "towards a unified language model for knowledge-intensive tasks utilizing\n  external corpus",
+        "url": "http://arxiv.org/abs/2402.01176v1"
+    },
+    {
+        "title": "a multi-agent conversational recommender system",
+        "url": "http://arxiv.org/abs/2402.01135v1"
     }
 ]
