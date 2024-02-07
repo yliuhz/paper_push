@@ -3470,5 +3470,25 @@
     {
         "title": "easyinstruct: an easy-to-use instruction processing framework for large\n  language models",
         "url": "http://arxiv.org/abs/2402.03049v1"
+    },
+    {
+        "title": "can large language models detect rumors on social media?",
+        "url": "http://arxiv.org/abs/2402.03916v1"
+    },
+    {
+        "title": "learning metrics that maximise power for accelerated a/b-tests",
+        "url": "http://arxiv.org/abs/2402.03915v1"
+    },
+    {
+        "title": "on practical diversified recommendation with controllable category\n  diversity framework",
+        "url": "http://arxiv.org/abs/2402.03801v1"
+    },
+    {
+        "title": "retrieval augmented cross-modal tag recommendation in software q&amp;a sites",
+        "url": "http://arxiv.org/abs/2402.03635v1"
+    },
+    {
+        "title": "leveraging large language models for hybrid workplace decision support",
+        "url": "http://arxiv.org/abs/2402.03616v1"
     }
 ]
