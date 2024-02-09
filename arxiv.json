@@ -3590,5 +3590,25 @@
     {
         "title": "theoretical and empirical analysis of adaptive entry point selection for\n  graph-based approximate nearest neighbor search",
         "url": "http://arxiv.org/abs/2402.04713v1"
+    },
+    {
+        "title": "promptcrypt: prompt encryption for secure communication with large\n  language models",
+        "url": "http://arxiv.org/abs/2402.05868v1"
+    },
+    {
+        "title": "natural language user profiles for transparent and scrutable\n  recommendations",
+        "url": "http://arxiv.org/abs/2402.05810v1"
+    },
+    {
+        "title": "counterclr: counterfactual contrastive learning with non-random missing\n  data in recommendation",
+        "url": "http://arxiv.org/abs/2402.05740v1"
+    },
+    {
+        "title": "multilingual e5 text embeddings: a technical report",
+        "url": "http://arxiv.org/abs/2402.05672v1"
+    },
+    {
+        "title": "knowledge graphs meet multi-modal learning: a comprehensive survey",
+        "url": "http://arxiv.org/abs/2402.05391v1"
     }
 ]
