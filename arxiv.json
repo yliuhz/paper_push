@@ -3950,5 +3950,25 @@
     {
         "title": "modeling balanced explicit and implicit relations with contrastive\n  learning for knowledge concept recommendation in moocs",
         "url": "http://arxiv.org/abs/2402.08256v1"
+    },
+    {
+        "title": "robust training of temporal gnns using nearest neighbours based hard\n  negatives",
+        "url": "http://arxiv.org/abs/2402.09239v1"
+    },
+    {
+        "title": "large language model interaction simulator for cold-start item\n  recommendation",
+        "url": "http://arxiv.org/abs/2402.09176v1"
+    },
+    {
+        "title": "recommendation algorithm based on recommendation sessions",
+        "url": "http://arxiv.org/abs/2402.09130v1"
+    },
+    {
+        "title": "confidence-aware fine-tuning of sequential recommendation systems via\n  conformal prediction",
+        "url": "http://arxiv.org/abs/2402.08976v1"
+    },
+    {
+        "title": "enhancing id and text fusion via alternative training in session-based\n  recommendation",
+        "url": "http://arxiv.org/abs/2402.08921v1"
     }
 ]
