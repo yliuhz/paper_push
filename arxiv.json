@@ -4250,5 +4250,25 @@
     {
         "title": "are id embeddings necessary? whitening pre-trained text embeddings for\n  effective sequential recommendation",
         "url": "http://arxiv.org/abs/2402.10602v1"
+    },
+    {
+        "title": "graph-based retriever captures the long tail of biomedical knowledge",
+        "url": "http://arxiv.org/abs/2402.12352v1"
+    },
+    {
+        "title": "explain then rank: scale calibration of neural rankers using natural\n  language explanations from large language models",
+        "url": "http://arxiv.org/abs/2402.12276v1"
+    },
+    {
+        "title": "analysis of persian news agencies on instagram, a words co-occurrence\n  graph-based approach",
+        "url": "http://arxiv.org/abs/2402.12272v1"
+    },
+    {
+        "title": "heterogeneity-aware cross-school electives recommendation: a hybrid\n  federated approach",
+        "url": "http://arxiv.org/abs/2402.12202v1"
+    },
+    {
+        "title": "a survey on extractive knowledge graph summarization: applications,\n  approaches, evaluation, and future directions",
+        "url": "http://arxiv.org/abs/2402.12001v1"
     }
 ]
