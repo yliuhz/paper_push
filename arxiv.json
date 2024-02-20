@@ -4230,5 +4230,25 @@
     {
         "title": "are id embeddings necessary? whitening pre-trained text embeddings for\n  effective sequential recommendation",
         "url": "http://arxiv.org/abs/2402.10602v1"
+    },
+    {
+        "title": "discovering and exploring cases of educational source code plagiarism\n  with dolos",
+        "url": "http://arxiv.org/abs/2402.10853v1"
+    },
+    {
+        "title": "generative cross-modal retrieval: memorizing images in multimodal\n  language models for retrieval and beyond",
+        "url": "http://arxiv.org/abs/2402.10805v1"
+    },
+    {
+        "title": "distillation enhanced generative retrieval",
+        "url": "http://arxiv.org/abs/2402.10769v1"
+    },
+    {
+        "title": "fairsync: ensuring amortized group exposure in distributed\n  recommendation retrieval",
+        "url": "http://arxiv.org/abs/2402.10628v1"
+    },
+    {
+        "title": "are id embeddings necessary? whitening pre-trained text embeddings for\n  effective sequential recommendation",
+        "url": "http://arxiv.org/abs/2402.10602v1"
     }
 ]
