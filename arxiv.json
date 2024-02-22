@@ -4362,5 +4362,25 @@
     {
         "title": "enhancing real-world complex network representations with hyperedge\n  augmentation",
         "url": "http://arxiv.org/abs/2402.13033v1"
+    },
+    {
+        "title": "linear-time graph neural networks for scalable recommendations",
+        "url": "http://arxiv.org/abs/2402.13973v1"
+    },
+    {
+        "title": "retention induced biases in a recommendation system with heterogeneous\n  users",
+        "url": "http://arxiv.org/abs/2402.13959v1"
+    },
+    {
+        "title": "science checker reloaded: a bidirectional paradigm for transparency and\n  logical reasoning",
+        "url": "http://arxiv.org/abs/2402.13897v1"
+    },
+    {
+        "title": "diversity-aware $k$-maximum inner product search revisited",
+        "url": "http://arxiv.org/abs/2402.13858v1"
+    },
+    {
+        "title": "llm4sbr: a lightweight and effective framework for integrating large\n  language models in session-based recommendation",
+        "url": "http://arxiv.org/abs/2402.13840v1"
     }
 ]
