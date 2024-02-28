@@ -4722,5 +4722,25 @@
     {
         "title": "deep rating elicitation for new users in collaborative filtering",
         "url": "http://arxiv.org/abs/2402.16327v1"
+    },
+    {
+        "title": "multimodal learned sparse retrieval with probabilistic expansion control",
+        "url": "http://arxiv.org/abs/2402.17535v1"
+    },
+    {
+        "title": "bases: large-scale web search user simulation with large language model\n  based agents",
+        "url": "http://arxiv.org/abs/2402.17505v1"
+    },
+    {
+        "title": "rear: a relevance-aware retrieval-augmented framework for open-domain\n  question answering",
+        "url": "http://arxiv.org/abs/2402.17497v1"
+    },
+    {
+        "title": "natural language processing methods for symbolic music generation and\n  information retrieval: a survey",
+        "url": "http://arxiv.org/abs/2402.17467v1"
+    },
+    {
+        "title": "deep learning based named entity recognition models for recipes",
+        "url": "http://arxiv.org/abs/2402.17447v1"
     }
 ]
