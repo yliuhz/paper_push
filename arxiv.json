@@ -4942,5 +4942,25 @@
     {
         "title": "a sound approach: using large language models to generate audio\n  descriptions for egocentric text-audio retrieval",
         "url": "http://arxiv.org/abs/2402.19106v1"
+    },
+    {
+        "title": "crafting knowledge: exploring the creative mechanisms of chat-based\n  search engines",
+        "url": "http://arxiv.org/abs/2402.19421v1"
+    },
+    {
+        "title": "paecter: patent-level representation learning using citation-informed\n  transformers",
+        "url": "http://arxiv.org/abs/2402.19411v1"
+    },
+    {
+        "title": "mentor: multi-level self-supervised learning for multimodal\n  recommendation",
+        "url": "http://arxiv.org/abs/2402.19407v1"
+    },
+    {
+        "title": "openmedlm: prompt engineering can out-perform fine-tuning in medical\n  question-answering with open-source large language models",
+        "url": "http://arxiv.org/abs/2402.19371v1"
+    },
+    {
+        "title": "a sound approach: using large language models to generate audio\n  descriptions for egocentric text-audio retrieval",
+        "url": "http://arxiv.org/abs/2402.19106v1"
     }
 ]
