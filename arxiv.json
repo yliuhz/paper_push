@@ -5142,5 +5142,25 @@
     {
         "title": "an interpretable ensemble of graph and language models for improving\n  search relevance in e-commerce",
         "url": "http://arxiv.org/abs/2403.00923v1"
+    },
+    {
+        "title": "enhancing conceptual understanding in multimodal contrastive learning\n  through hard negative samples",
+        "url": "http://arxiv.org/abs/2403.02875v1"
+    },
+    {
+        "title": "contrastive pre-training for deep session data understanding",
+        "url": "http://arxiv.org/abs/2403.02825v1"
+    },
+    {
+        "title": "a distance metric learning model based on variational information\n  bottleneck",
+        "url": "http://arxiv.org/abs/2403.02794v1"
+    },
+    {
+        "title": "learning to ask critical questions for assisting product search",
+        "url": "http://arxiv.org/abs/2403.02754v1"
+    },
+    {
+        "title": "uplift modeling for target user attacks on recommender systems",
+        "url": "http://arxiv.org/abs/2403.02692v1"
     }
 ]
