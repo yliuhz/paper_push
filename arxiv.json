@@ -5242,5 +5242,25 @@
     {
         "title": "intent-aware recommendation via disentangled graph contrastive learning",
         "url": "http://arxiv.org/abs/2403.03714v1"
+    },
+    {
+        "title": "backtracing: retrieving the cause of the query",
+        "url": "http://arxiv.org/abs/2403.03956v1"
+    },
+    {
+        "title": "bridging language and items for retrieval and recommendation",
+        "url": "http://arxiv.org/abs/2403.03952v1"
+    },
+    {
+        "title": "mamba4rec: towards efficient sequential recommendation with selective\n  state space models",
+        "url": "http://arxiv.org/abs/2403.03900v1"
+    },
+    {
+        "title": "cobweb: an incremental and hierarchical model of human-like category\n  learning",
+        "url": "http://arxiv.org/abs/2403.03835v1"
+    },
+    {
+        "title": "intent-aware recommendation via disentangled graph contrastive learning",
+        "url": "http://arxiv.org/abs/2403.03714v1"
     }
 ]
