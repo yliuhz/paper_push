@@ -5482,5 +5482,25 @@
     {
         "title": "aligning large language models for controllable recommendations",
         "url": "http://arxiv.org/abs/2403.05063v1"
+    },
+    {
+        "title": "is cosine-similarity of embeddings really about similarity?",
+        "url": "http://arxiv.org/abs/2403.05440v1"
+    },
+    {
+        "title": "harnessing multi-role capabilities of large language models for\n  open-domain question answering",
+        "url": "http://arxiv.org/abs/2403.05217v1"
+    },
+    {
+        "title": "personalized audiobook recommendations at spotify through graph neural\n  networks",
+        "url": "http://arxiv.org/abs/2403.05185v1"
+    },
+    {
+        "title": "multi-tower multi-interest recommendation with user representation repel",
+        "url": "http://arxiv.org/abs/2403.05122v1"
+    },
+    {
+        "title": "aligning large language models for controllable recommendations",
+        "url": "http://arxiv.org/abs/2403.05063v1"
     }
 ]
