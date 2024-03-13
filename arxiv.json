@@ -5542,5 +5542,25 @@
     {
         "title": "kellmrec: knowledge-enhanced large language models for recommendation",
         "url": "http://arxiv.org/abs/2403.06642v1"
+    },
+    {
+        "title": "splade-v3: new baselines for splade",
+        "url": "http://arxiv.org/abs/2403.06789v1"
+    },
+    {
+        "title": "metasplit: meta-split network for limited-stock product recommendation",
+        "url": "http://arxiv.org/abs/2403.06747v2"
+    },
+    {
+        "title": "post-training attribute unlearning in recommender systems",
+        "url": "http://arxiv.org/abs/2403.06737v1"
+    },
+    {
+        "title": "emergency response inference mapping (erimap): a bayesian network-based\n  method for dynamic observation processing in spatially distributed\n  emergencies",
+        "url": "http://arxiv.org/abs/2403.06716v1"
+    },
+    {
+        "title": "kellmrec: knowledge-enhanced large language models for recommendation",
+        "url": "http://arxiv.org/abs/2403.06642v1"
     }
 ]
