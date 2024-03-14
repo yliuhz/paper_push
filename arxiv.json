@@ -5622,5 +5622,25 @@
     {
         "title": "the future of document indexing: gpt and donut revolutionize table of\n  content processing",
         "url": "http://arxiv.org/abs/2403.07553v1"
+    },
+    {
+        "title": "ilciter: evidence-grounded interpretable local citation recommendation",
+        "url": "http://arxiv.org/abs/2403.08737v1"
+    },
+    {
+        "title": "nlqxform-ui: a natural language interface for querying dblp\n  interactively",
+        "url": "http://arxiv.org/abs/2403.08475v1"
+    },
+    {
+        "title": "knowledge conflicts for llms: a survey",
+        "url": "http://arxiv.org/abs/2403.08319v1"
+    },
+    {
+        "title": "towards unified modeling for positive and negative preferences in\n  sign-aware recommendation",
+        "url": "http://arxiv.org/abs/2403.08246v1"
+    },
+    {
+        "title": "discrete semantic tokenization for deep ctr prediction",
+        "url": "http://arxiv.org/abs/2403.08206v1"
     }
 ]
