@@ -5842,5 +5842,25 @@
     {
         "title": "magic tokens: select diverse tokens for multi-modal object\n  re-identification",
         "url": "http://arxiv.org/abs/2403.10254v1"
+    },
+    {
+        "title": "videoagent: long-form video understanding with large language model as\n  agent",
+        "url": "http://arxiv.org/abs/2403.10517v1"
+    },
+    {
+        "title": "featup: a model-agnostic framework for features at any resolution",
+        "url": "http://arxiv.org/abs/2403.10516v1"
+    },
+    {
+        "title": "socialgenpod: privacy-friendly generative ai social web applications\n  with decentralised personal data stores",
+        "url": "http://arxiv.org/abs/2403.10408v1"
+    },
+    {
+        "title": "a thorough comparison of cross-encoders and llms for reranking splade",
+        "url": "http://arxiv.org/abs/2403.10407v1"
+    },
+    {
+        "title": "magic tokens: select diverse tokens for multi-modal object\n  re-identification",
+        "url": "http://arxiv.org/abs/2403.10254v1"
     }
 ]
