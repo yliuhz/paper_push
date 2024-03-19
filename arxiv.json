@@ -5862,5 +5862,25 @@
     {
         "title": "magic tokens: select diverse tokens for multi-modal object\n  re-identification",
         "url": "http://arxiv.org/abs/2403.10254v1"
+    },
+    {
+        "title": "dual-channel multiplex graph neural networks for recommendation",
+        "url": "http://arxiv.org/abs/2403.11624v1"
+    },
+    {
+        "title": "convsdg: session data generation for conversational search",
+        "url": "http://arxiv.org/abs/2403.11335v1"
+    },
+    {
+        "title": "is contrastive learning necessary? a study of data augmentation vs\n  contrastive learning in sequential recommendation",
+        "url": "http://arxiv.org/abs/2403.11136v1"
+    },
+    {
+        "title": "entity alignment with unlabeled dangling cases",
+        "url": "http://arxiv.org/abs/2403.10978v1"
+    },
+    {
+        "title": "improving the robustness of dense retrievers against typos via\n  multi-positive contrastive learning",
+        "url": "http://arxiv.org/abs/2403.10939v1"
     }
 ]
