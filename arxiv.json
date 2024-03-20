@@ -5902,5 +5902,25 @@
     {
         "title": "improving the robustness of dense retrievers against typos via\n  multi-positive contrastive learning",
         "url": "http://arxiv.org/abs/2403.10939v1"
+    },
+    {
+        "title": "erase: benchmarking feature selection methods for deep recommender\n  systems",
+        "url": "http://arxiv.org/abs/2403.12660v1"
+    },
+    {
+        "title": "inbox: recommendation with knowledge graph using interest box embedding",
+        "url": "http://arxiv.org/abs/2403.12649v1"
+    },
+    {
+        "title": "context-based fast recommendation strategy for long user behavior\n  sequence in meituan waimai",
+        "url": "http://arxiv.org/abs/2403.12566v1"
+    },
+    {
+        "title": "listwise generative retrieval models via a sequential learning process",
+        "url": "http://arxiv.org/abs/2403.12499v1"
+    },
+    {
+        "title": "interpretable user satisfaction estimation for conversational systems\n  with large language models",
+        "url": "http://arxiv.org/abs/2403.12388v1"
     }
 ]
