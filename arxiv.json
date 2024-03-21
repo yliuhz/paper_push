@@ -5962,5 +5962,25 @@
     {
         "title": "interpretable user satisfaction estimation for conversational systems\n  with large language models",
         "url": "http://arxiv.org/abs/2403.12388v1"
+    },
+    {
+        "title": "leveraging high-resolution features for improved deep hashing-based\n  image retrieval",
+        "url": "http://arxiv.org/abs/2403.13747v1"
+    },
+    {
+        "title": "no more optimization rules: llm-enabled policy-based multi-modal query\n  optimizer (version 1)",
+        "url": "http://arxiv.org/abs/2403.13597v1"
+    },
+    {
+        "title": "a large language model enhanced sequential recommender for joint video\n  and comment recommendation",
+        "url": "http://arxiv.org/abs/2403.13574v1"
+    },
+    {
+        "title": "a unified optimal transport framework for cross-modal retrieval with\n  noisy labels",
+        "url": "http://arxiv.org/abs/2403.13480v1"
+    },
+    {
+        "title": "desire-me: domain-enhanced supervised information retrieval using\n  mixture-of-experts",
+        "url": "http://arxiv.org/abs/2403.13468v1"
     }
 ]
