@@ -6202,5 +6202,25 @@
     {
         "title": "m3: a multi-task mixed-objective learning framework for open-domain\n  multi-hop dense sentence retrieval",
         "url": "http://arxiv.org/abs/2403.14074v1"
+    },
+    {
+        "title": "fundus: a simple-to-use news scraper optimized for high quality\n  extractions",
+        "url": "http://arxiv.org/abs/2403.15279v1"
+    },
+    {
+        "title": "followir: evaluating and teaching information retrieval models to follow\n  instructions",
+        "url": "http://arxiv.org/abs/2403.15246v1"
+    },
+    {
+        "title": "bilateral unsymmetrical graph contrastive learning for recommendation",
+        "url": "http://arxiv.org/abs/2403.15075v1"
+    },
+    {
+        "title": "gtbls: generating tables from text by conditional question answering",
+        "url": "http://arxiv.org/abs/2403.14457v1"
+    },
+    {
+        "title": "knowledge-enhanced recommendation with user-centric subgraph network",
+        "url": "http://arxiv.org/abs/2403.14377v1"
     }
 ]
