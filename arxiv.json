@@ -6262,5 +6262,25 @@
     {
         "title": "knowledge-enhanced recommendation with user-centric subgraph network",
         "url": "http://arxiv.org/abs/2403.14377v1"
+    },
+    {
+        "title": "glosis: the global soil information system web ontology",
+        "url": "http://arxiv.org/abs/2403.16778v1"
+    },
+    {
+        "title": "procqa: a large-scale community-based programming question answering\n  dataset for code search",
+        "url": "http://arxiv.org/abs/2403.16702v1"
+    },
+    {
+        "title": "a comparative analysis of embedding models for patent similarity",
+        "url": "http://arxiv.org/abs/2403.16630v1"
+    },
+    {
+        "title": "lara: linguistic-adaptive retrieval-augmented llms for multi-turn intent\n  classification",
+        "url": "http://arxiv.org/abs/2403.16504v1"
+    },
+    {
+        "title": "instupr : instruction-based unsupervised passage reranking with large\n  language models",
+        "url": "http://arxiv.org/abs/2403.16435v1"
     }
 ]
