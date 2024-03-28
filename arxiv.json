@@ -6362,5 +6362,25 @@
     {
         "title": "twolar: a two-step llm-augmented distillation method for passage\n  reranking",
         "url": "http://arxiv.org/abs/2403.17759v1"
+    },
+    {
+        "title": "search and society: reimagining information access for radical futures",
+        "url": "http://arxiv.org/abs/2403.17901v1"
+    },
+    {
+        "title": "mind your language: a multilingual dataset for cross-lingual news\n  recommendation",
+        "url": "http://arxiv.org/abs/2403.17876v1"
+    },
+    {
+        "title": "arabicaqa: a comprehensive dataset for arabic question answering",
+        "url": "http://arxiv.org/abs/2403.17848v1"
+    },
+    {
+        "title": "caselink: inductive graph learning for legal case retrieval",
+        "url": "http://arxiv.org/abs/2403.17780v1"
+    },
+    {
+        "title": "twolar: a two-step llm-augmented distillation method for passage\n  reranking",
+        "url": "http://arxiv.org/abs/2403.17759v1"
     }
 ]
