@@ -6562,5 +6562,25 @@
     {
         "title": "generate then retrieve: conversational response retrieval using llms as\n  answer and query generators",
         "url": "http://arxiv.org/abs/2403.19302v1"
+    },
+    {
+        "title": "magiclens: self-supervised image retrieval with open-ended instructions",
+        "url": "http://arxiv.org/abs/2403.19651v1"
+    },
+    {
+        "title": "croissant: a metadata format for ml-ready datasets",
+        "url": "http://arxiv.org/abs/2403.19546v1"
+    },
+    {
+        "title": "breaking the length barrier: llm-enhanced ctr prediction in long textual\n  user behaviors",
+        "url": "http://arxiv.org/abs/2403.19347v1"
+    },
+    {
+        "title": "intelligent classification and personalized recommendation of e-commerce\n  products based on machine learning",
+        "url": "http://arxiv.org/abs/2403.19345v1"
+    },
+    {
+        "title": "generate then retrieve: conversational response retrieval using llms as\n  answer and query generators",
+        "url": "http://arxiv.org/abs/2403.19302v1"
     }
 ]
