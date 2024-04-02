@@ -6682,5 +6682,25 @@
     {
         "title": "robust federated contrastive recommender system against model poisoning\n  attack",
         "url": "http://arxiv.org/abs/2403.20107v1"
+    },
+    {
+        "title": "review-based cross-domain recommendation via hyperbolic embedding and\n  hierarchy-aware domain disentanglement",
+        "url": "http://arxiv.org/abs/2403.20298v1"
+    },
+    {
+        "title": "aiming at the target: filter collaborative information for cross-domain\n  recommendation",
+        "url": "http://arxiv.org/abs/2403.20296v1"
+    },
+    {
+        "title": "shallow cross-encoders for low-latency retrieval",
+        "url": "http://arxiv.org/abs/2403.20222v1"
+    },
+    {
+        "title": "dual simplex volume maximization for simplex-structured matrix\n  factorization",
+        "url": "http://arxiv.org/abs/2403.20197v1"
+    },
+    {
+        "title": "robust federated contrastive recommender system against model poisoning\n  attack",
+        "url": "http://arxiv.org/abs/2403.20107v1"
     }
 ]
