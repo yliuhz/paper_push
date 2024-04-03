@@ -6762,5 +6762,25 @@
     {
         "title": "entity disambiguation via fusion entity decoding",
         "url": "http://arxiv.org/abs/2404.01626v1"
+    },
+    {
+        "title": "rematch: robust and efficient matching of local knowledge graphs to\n  improve structural and semantic similarity",
+        "url": "http://arxiv.org/abs/2404.02126v1"
+    },
+    {
+        "title": "iisan: efficiently adapting multimodal representation for sequential\n  recommendation with decoupled peft",
+        "url": "http://arxiv.org/abs/2404.02059v1"
+    },
+    {
+        "title": "where to move next: zero-shot generalization of llms for next poi\n  recommendation",
+        "url": "http://arxiv.org/abs/2404.01855v1"
+    },
+    {
+        "title": "cirp: cross-item relational pre-training for multimodal product bundling",
+        "url": "http://arxiv.org/abs/2404.01735v1"
+    },
+    {
+        "title": "entity disambiguation via fusion entity decoding",
+        "url": "http://arxiv.org/abs/2404.01626v1"
     }
 ]
