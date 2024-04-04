@@ -6802,5 +6802,25 @@
     {
         "title": "entity disambiguation via fusion entity decoding",
         "url": "http://arxiv.org/abs/2404.01626v1"
+    },
+    {
+        "title": "generative-contrastive heterogeneous graph neural network",
+        "url": "http://arxiv.org/abs/2404.02810v1"
+    },
+    {
+        "title": "efficient multi-vector dense retrieval using bit vectors",
+        "url": "http://arxiv.org/abs/2404.02805v1"
+    },
+    {
+        "title": "improving topic relevance model by mix-structured summarization and\n  llm-based data augmentation",
+        "url": "http://arxiv.org/abs/2404.02616v1"
+    },
+    {
+        "title": "the surprising effectiveness of rankers trained on expanded queries",
+        "url": "http://arxiv.org/abs/2404.02587v1"
+    },
+    {
+        "title": "multi-granularity guided fusion-in-decoder",
+        "url": "http://arxiv.org/abs/2404.02581v1"
     }
 ]
