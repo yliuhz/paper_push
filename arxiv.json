@@ -7082,5 +7082,25 @@
     {
         "title": "genqrensemble: zero-shot llm ensemble prompting for generative query\n  reformulation",
         "url": "http://arxiv.org/abs/2404.03746v1"
+    },
+    {
+        "title": "dwell in the beginning: how language models embed long documents for\n  dense retrieval",
+        "url": "http://arxiv.org/abs/2404.04163v1"
+    },
+    {
+        "title": "large language models as oracles for instantiating ontologies with\n  domain-specific knowledge",
+        "url": "http://arxiv.org/abs/2404.04108v1"
+    },
+    {
+        "title": "a comparison of methods for evaluating generative ir",
+        "url": "http://arxiv.org/abs/2404.04044v1"
+    },
+    {
+        "title": "understanding language modeling paradigm adaptations in recommender\n  systems: lessons learned and open challenges",
+        "url": "http://arxiv.org/abs/2404.03788v1"
+    },
+    {
+        "title": "genqrensemble: zero-shot llm ensemble prompting for generative query\n  reformulation",
+        "url": "http://arxiv.org/abs/2404.03746v1"
     }
 ]
