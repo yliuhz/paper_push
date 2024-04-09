@@ -7122,5 +7122,25 @@
     {
         "title": "balancing information perception with yin-yang: agent-based information\n  neutrality model for recommendation systems",
         "url": "http://arxiv.org/abs/2404.04906v1"
+    },
+    {
+        "title": "mealrec$^+$: a meal recommendation dataset with meal-course affiliation\n  for personalization and healthiness",
+        "url": "http://arxiv.org/abs/2404.05386v1"
+    },
+    {
+        "title": "beyond the sequence: statistics-driven pre-training for stabilizing\n  sequential recommendation model",
+        "url": "http://arxiv.org/abs/2404.05342v1"
+    },
+    {
+        "title": "havtr: improving video-text retrieval through augmentation using large\n  foundation models",
+        "url": "http://arxiv.org/abs/2404.05083v1"
+    },
+    {
+        "title": "weakly supervised deep hyperspherical quantization for image retrieval",
+        "url": "http://arxiv.org/abs/2404.04998v1"
+    },
+    {
+        "title": "balancing information perception with yin-yang: agent-based information\n  neutrality model for recommendation systems",
+        "url": "http://arxiv.org/abs/2404.04906v1"
     }
 ]
