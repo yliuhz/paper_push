@@ -7222,5 +7222,25 @@
     {
         "title": "end-to-end training of multimodal model and ranking model",
         "url": "http://arxiv.org/abs/2404.06078v1"
+    },
+    {
+        "title": "from model-centered to human-centered: revision distance as a metric for\n  text evaluation in llms-based applications",
+        "url": "http://arxiv.org/abs/2404.07108v1"
+    },
+    {
+        "title": "graph chain-of-thought: augmenting large language models by reasoning on\n  graphs",
+        "url": "http://arxiv.org/abs/2404.07103v1"
+    },
+    {
+        "title": "transtarec: time-adaptive translating embedding model for next poi\n  recommendation",
+        "url": "http://arxiv.org/abs/2404.07096v1"
+    },
+    {
+        "title": "quati: a brazilian portuguese information retrieval dataset from native\n  speakers",
+        "url": "http://arxiv.org/abs/2404.06976v1"
+    },
+    {
+        "title": "set-encoder: permutation-invariant inter-passage attention for listwise\n  passage re-ranking with cross-encoders",
+        "url": "http://arxiv.org/abs/2404.06912v1"
     }
 ]
