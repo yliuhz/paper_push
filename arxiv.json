@@ -7202,5 +7202,25 @@
     {
         "title": "end-to-end training of multimodal model and ranking model",
         "url": "http://arxiv.org/abs/2404.06078v1"
+    },
+    {
+        "title": "learning state-invariant representations of objects from image\n  collections with state, pose, and viewpoint changes",
+        "url": "http://arxiv.org/abs/2404.06470v1"
+    },
+    {
+        "title": "rar-b: reasoning as retrieval benchmark",
+        "url": "http://arxiv.org/abs/2404.06347v1"
+    },
+    {
+        "title": "dre: generating recommendation explanations by aligning large language\n  models at data-level",
+        "url": "http://arxiv.org/abs/2404.06311v1"
+    },
+    {
+        "title": "exploring diverse sounds: identifying outliers in a music corpus",
+        "url": "http://arxiv.org/abs/2404.06103v1"
+    },
+    {
+        "title": "end-to-end training of multimodal model and ranking model",
+        "url": "http://arxiv.org/abs/2404.06078v1"
     }
 ]
